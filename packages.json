@@ -907,6 +907,15 @@
     "repo": "https://github.com/citizennet/purescript-halogen-select.git",
     "version": "v0.2.0"
   },
+  "halogen-svg": {
+    "dependencies": [
+      "halogen",
+      "strings",
+      "dom-indexed"
+    ],
+    "repo": "https://github.com/kwohlfahrt/purescript-halogen-svg.git",
+    "version": "v0.0.3"
+  },
   "halogen-vdom": {
     "dependencies": [
       "prelude",
