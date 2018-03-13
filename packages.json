@@ -914,7 +914,7 @@
       "dom-indexed"
     ],
     "repo": "https://github.com/kwohlfahrt/purescript-halogen-svg.git",
-    "version": "v0.0.4"
+    "version": "master"
   },
   "halogen-vdom": {
     "dependencies": [
