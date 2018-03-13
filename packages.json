@@ -1150,6 +1150,13 @@
     "repo": "https://github.com/purescript/purescript-transformers.git",
     "version": "v4.1.0"
   },
+  "tree": {
+    "dependencies": [
+      "prelude", "console", "lists", "free"
+    ],
+    "repo": "https://github.com/dmbfm/purescript-tree.git",
+    "version": "v1.3.2"
+  },
   "tuples": {
     "dependencies": [
       "bifunctors",
